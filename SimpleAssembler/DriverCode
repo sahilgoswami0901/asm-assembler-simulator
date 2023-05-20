@@ -1,1 +1,7 @@
+//Steps to run the code
 
+#!/bin/bash
+
+
+// Add command to run your program here
+java SimpleAssembler
