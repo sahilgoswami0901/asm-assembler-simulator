@@ -1,0 +1,10 @@
+// this is the test case which is given as input to isa.java 
+// file then this instruction set should be converted into 
+// machine code by given assembler
+
+movf R1 $1.25
+movf R2 $1.5
+addf R1 R2 R3
+subf R1 R2 R4
+movf R5 $0.5
+hlt
